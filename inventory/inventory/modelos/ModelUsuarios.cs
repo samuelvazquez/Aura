@@ -23,7 +23,7 @@ namespace inventory.modelos
         public void addUser()
         {
 
-        }//fin de la funcion
+        }//fin de la funcion ....
 
         public void modifyUser()
         {

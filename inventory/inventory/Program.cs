@@ -8,7 +8,7 @@ namespace inventory
     static class Program
     {
         /// <summary>
-        /// Punto de entrada principal para la aplicación.
+        /// Punto de entrada ....
         /// </summary>
         [STAThread]
         static void Main()
@@ -17,7 +17,7 @@ namespace inventory
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Main());
 
-            ///
+          
         }
     }
 }
